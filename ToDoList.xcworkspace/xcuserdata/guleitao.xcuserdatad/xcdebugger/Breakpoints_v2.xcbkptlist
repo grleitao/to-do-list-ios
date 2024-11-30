@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E5F994E-A470-4CC1-A436-A23A8DF40F25"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C37F0FC2-6A78-4218-8F5B-79036FF62A0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/Scene/Login/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "loginUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C37F0FC2-6A78-4218-8F5B-79036FF62A0D - 621069f02df3b7d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ToDoList.LoginResponse, Swift.Error&gt;) -&gt; () in ToDoList.LoginViewController.loginUser() -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guleitao/Documents/to-do-list-ios/ToDoList/Scene/Login/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "C37F0FC2-6A78-4218-8F5B-79036FF62A0D - 621069f02df3b7e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ToDoList.LoginResponse, Swift.Error&gt;) -&gt; () in ToDoList.LoginViewController.loginUser() -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guleitao/Documents/to-do-list-ios/ToDoList/Scene/Login/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C37F0FC2-6A78-4218-8F5B-79036FF62A0D - 621069f02df3b7e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ToDoList.LoginResponse, Swift.Error&gt;) -&gt; () in ToDoList.LoginViewController.loginUser() -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guleitao/Documents/to-do-list-ios/ToDoList/Scene/Login/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B5F77E5-F6ED-45BE-A7D9-B9DEADAE9B88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoList/Scene/Login/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "loginUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B5F77E5-F6ED-45BE-A7D9-B9DEADAE9B88 - 621069f02df3b4f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ToDoList.LoginResponse, Swift.Error&gt;) -&gt; () in ToDoList.LoginViewController.loginUser() -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guleitao/Documents/to-do-list-ios/ToDoList/Scene/Login/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "3B5F77E5-F6ED-45BE-A7D9-B9DEADAE9B88 - 621069f02df3b475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ToDoList.LoginResponse, Swift.Error&gt;) -&gt; () in ToDoList.LoginViewController.loginUser() -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guleitao/Documents/to-do-list-ios/ToDoList/Scene/Login/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "3B5F77E5-F6ED-45BE-A7D9-B9DEADAE9B88 - 621069f02df3b475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ToDoList.LoginResponse, Swift.Error&gt;) -&gt; () in ToDoList.LoginViewController.loginUser() -&gt; ()"
+                  moduleName = "ToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guleitao/Documents/to-do-list-ios/ToDoList/Scene/Login/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
