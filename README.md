@@ -3,11 +3,11 @@
 Este projeto é uma aplicação iOS desenvolvida em Swift com funcionalidades modernas para gerenciamento de tarefas, configurações personalizadas e suporte a múltiplos usuários. O objetivo deste trabalho é apresentar um aplicativo funcional com uma interface amigável e práticas recomendadas de desenvolvimento.
 
 ## 👨‍💻👩‍💻 Equipe de Desenvolvimento
-Gustavo Rodrigues Leitão - 12524239718
-Beatriz Tamie Sato da Silva - 12524242147
-Victor Gabriel S. de Sousa - 324269153
-Giovanna Gonçalves de Souza Cardoso - 824220776
-Jacques Douglas Santana Lima - 324247935
+- Gustavo Rodrigues Leitão - 12524239718
+- Beatriz Tamie Sato da Silva - 12524242147
+- Victor Gabriel S. de Sousa - 324269153
+- Giovanna Gonçalves de Souza Cardoso - 824220776
+- Jacques Douglas Santana Lima - 324247935
 
 ## 📋 Funcionalidades
 
