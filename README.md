@@ -1,5 +1,8 @@
 # Projeto de Aplicativo iOS
 
+GRAVAÇÃO(https://drive.google.com/file/d/1Ka92XfuqU5l97UDkJUMMUZIhtto_BDuQ/view?usp=sharing)
+
+
 Este projeto é uma aplicação iOS desenvolvida em Swift com funcionalidades modernas para gerenciamento de tarefas, configurações personalizadas e suporte a múltiplos usuários. O objetivo deste trabalho é apresentar um aplicativo funcional com uma interface amigável e práticas recomendadas de desenvolvimento.
 
 ## 👨‍💻👩‍💻 Equipe de Desenvolvimento
