@@ -44,11 +44,11 @@ Este projeto é uma aplicação iOS desenvolvida em Swift com funcionalidades mo
 5. Compile e execute o projeto clicando no botão "Run" (ou pressionando ⌘ + R).
 
 ## 📂 Estrutura do Projeto
-LoginViewController.swift: Tela para login de usuários.
-RegisterViewController.swift: Tela para cadastro de novos usuários.
-HomeViewController.swift: Tela inicial com as tarefas principais.
-CreateTaskViewController.swift: Tela para criação de novas tarefas.
-EditTaskViewController.swift: Tela para edição de tarefas existentes.
-SettingsViewController.swift: Tela de configurações do aplicativo.
-TabBarController.swift: Gerenciamento da navegação entre as telas
+- LoginViewController.swift: Tela para login de usuários.
+- RegisterViewController.swift: Tela para cadastro de novos usuários.
+- HomeViewController.swift: Tela inicial com as tarefas principais.
+- CreateTaskViewController.swift: Tela para criação de novas tarefas.
+- EditTaskViewController.swift: Tela para edição de tarefas existentes.
+- SettingsViewController.swift: Tela de configurações do aplicativo.
+- TabBarController.swift: Gerenciamento da navegação entre as telas
 
